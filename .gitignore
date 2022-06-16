@@ -1,0 +1,5 @@
+#! das gehört in eure .gitignore Datei rein
+# ignore theses files
+makefile
+# ignore theses folders
+#node_modules/
